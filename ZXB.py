@@ -1,2 +1,2 @@
-from Z88 import menu
+from ZXB import menu
 menu()
